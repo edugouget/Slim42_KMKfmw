@@ -1,4 +1,6 @@
-# Slim42_KMKfmw
+# Slim 42 keys KMKfmw
 Keyboard 42 keys splited
-KMK firmware
-3D model
+
+* KMK firmware
+* 3D model
+
